@@ -16,6 +16,9 @@
             android:name=".DatePickerWidget"
             android:exported="false" />
         <activity
+            android:name=".ProgressBarWidget"
+            android:exported="false" />
+        <activity
             android:name=".RadioBoxWidget"
             android:exported="false" />
         <activity
