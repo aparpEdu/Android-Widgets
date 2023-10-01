@@ -1,4 +1,4 @@
-package com.example.widgetsapp;
+package com.example.widgetsapp.fragment;
 
 import android.app.Dialog;
 import android.app.TimePickerDialog;
